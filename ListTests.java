@@ -6,13 +6,7 @@ import java.util.List;
 
 import org.junit.*;
 
-class StringChecker{
-    static boolean checkString(String checkthis) {
-        //uhh
-        return true;
-    }
-    
-}
+
 
 
 public class ListTests{
